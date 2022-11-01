@@ -1,0 +1,6 @@
+[book]
+authors = ["subfish-zhou"]
+language = "en"
+multilingual = true
+src = "src"
+title = "mathematics_in_lean_zhCN"
